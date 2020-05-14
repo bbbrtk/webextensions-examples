@@ -1,0 +1,19 @@
+{
+
+  "description": "Compare filters",
+  "manifest_version": 2,
+  "name": "Adblock-Compare",
+  "version": "1.0",
+  "homepage_url": "https://github.com/bbbrtk/webextensions-examples/tree/master/adblock-compare",
+  "icons": {
+    "48": "icons/icon-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["compare.js"]
+    }
+  ]
+
+}
