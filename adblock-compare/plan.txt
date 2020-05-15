@@ -1,0 +1,6 @@
+1. floating external panel (annotate page)
+2. input in panel
+3. block class by name from input
+4. checkbox - hide or block
+5. block requests (https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests)
+6. add devtools panel (dev-tools)
